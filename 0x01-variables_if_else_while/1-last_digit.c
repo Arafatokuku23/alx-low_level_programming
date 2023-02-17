@@ -1,8 +1,3 @@
-*
- * File: 1-last_digit.c
- * Author: Arafat Okuku
- */
-
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
